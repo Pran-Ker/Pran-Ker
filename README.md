@@ -3,7 +3,7 @@
 <h3 align="center">Hey there, I'm <a href="https://pran-ker.github.io/">Prannay</a> - aka Pran-Ker  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://twitter.com/HebbarPrannay"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Pran-Ker?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/HebbarPrannay"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/HebbarPrannay?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Pran-Ker"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Pran-Ker?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
