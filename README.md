@@ -42,7 +42,7 @@
 
 
 ## 📘 My top open source projects
-
+<!--
 <table>
   <thead align="center">
     <tr border: none;>
@@ -79,11 +79,9 @@
     </tr>
   </tbody>
 </table>
+--!>
 
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
-</p>
 
 ## 👨‍💻 Languages and Tools:
 
@@ -171,9 +169,6 @@
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
 
 
 </details>
