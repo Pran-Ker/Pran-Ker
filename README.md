@@ -170,10 +170,3 @@
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-
-
-</details>
------
-Credits: [Pran-Ker](https://github.com/DenverCoder1)
-
-Last Edited on: 14/03/2022
