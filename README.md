@@ -1,4 +1,7 @@
-![Alt Text](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif">
+</p>
+
 
 <h3 align="center">Hey there, I'm <a href="https://pran-ker.github.io/">Prannay</a> - aka Pran-Ker  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
