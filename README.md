@@ -3,7 +3,7 @@
 </p>
 
 
-<h3 align="center">Hey there, I'm <a href="https://pran-ker.github.io/">Prannay</a> - aka Pran-Ker  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center"><a href="https://pran-ker.github.io/">Prannay Hebbar</a><br>Pran-Ker </h3>
 
 <p align="center">
   <a href="https://twitter.com/HebbarPrannay"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/HebbarPrannay?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
@@ -29,7 +29,6 @@
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Pran-Ker?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ## Connect with me:
 
@@ -49,9 +48,9 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
+      <td><b>Project</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
     </tr>
   </thead>
   <tbody>
@@ -84,9 +83,6 @@
 </table>
 --!>
 
-
-
-## 📈 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
