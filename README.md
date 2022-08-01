@@ -11,17 +11,17 @@
   <a href="https://www.linkedin.com/in/prannay/"><img alt="followers" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5/follow/prannay?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-## 📖 About me
+## About me
 
-* 💻 I'm a Full Stack and Cloud Developer
-* 🎓 I'm a Computer Science and Business student (graduating in March 2023)
+* Full Stack and Cloud Developer
+* Computer Science and Business student (graduating in March 2023)
 
 <p align="left">
   <a href=" "><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
     
 </p>
 
-## 🔥 My contribution streak
+## My contribution streak
 
 <p align="center">
   <a href="https://github.com/Pran-Ker/github-readme-streak-stats">
@@ -31,7 +31,7 @@
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/Pran-Ker?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
-## 🙋‍♂️ Connect with me:
+## Connect with me:
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCgiaIxUUPkRfApYp1EssrFw"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -44,7 +44,7 @@
 
 
 
-## 📘 My top open source projects
+## Top open source projects
 <!--
 <table>
   <thead align="center">
@@ -86,84 +86,17 @@
 
 
 
-## 👨‍💻 Languages and Tools:
-
-<table>
-    <tbody>
-        <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-            </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-            </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-            </td>
-            <td><a href="#"><img alt="PHP" title="PHP" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="C++" title="C++" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
-            <td><a href="#"><img alt="C#" title="C#" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
-            <td><a href="#"><img alt="Java" title="Java" height="28px"
-                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
-            <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
-                        src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-            </td>
-            <td><a href="#"><img alt="SQL" title="SQL" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
-                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
-            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
-                        src="https://i.imgur.com/eO5z1xV.png" /></a></td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://i.imgur.com/DZgetVv.png" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
-                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
-                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
-        </tr>
-    </tbody>
-</table>
-
-<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
-
 ## 📈 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
-  <summary>📊 GitHub Profile Stats</summary>
+  <summary>Stats</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pran-Ker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pran-Ker&show_icons=true&count_private=true&hide=" /></a>
 </details>
 
 <details> 
-  <summary>💻 Most used languages</summary>
+  <summary>Languages</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pran-Ker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pran-Ker&langs_count=10&layout=compact#" /></a>
   <br/>
