@@ -16,7 +16,7 @@
     
 </p>
 
-## My contribution streak
+<!-- ## My contribution streak
 
 <p align="center">
   <a href="https://github.com/Pran-Ker/github-readme-streak-stats">
@@ -37,7 +37,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pran-Ker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pran-Ker&langs_count=10&layout=compact#" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-
+ -->
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
