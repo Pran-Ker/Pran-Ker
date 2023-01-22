@@ -1,7 +1,7 @@
 <h3 align="center"><a href="https://pran-ker.github.io/">Prannay Hebbar</a><br>Pran-Ker </h3>
 
 <p align="center">
-  <a href="https://twitter.com/HebbarPrannay"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/HebbarPrannay?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+<!--   <a href="https://twitter.com/HebbarPrannay"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/HebbarPrannay?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a> -->
   <a href="https://github.com/Pran-Ker"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Pran-Ker?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://www.linkedin.com/in/prannay/"><img alt="followers" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5/follow/prannay?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
