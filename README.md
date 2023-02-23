@@ -16,25 +16,16 @@
     
 </p>
 
-<!-- ## My contribution streak
-
-<p align="center">
-  <a href="https://github.com/Pran-Ker/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pran-Ker#version3"/>
-  </a>
-</p>
-
-
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
   <summary>Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pran-Ker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pran-Ker&show_icons=true&count_private=true&hide=" /></a>
+  <img alt="Pran-Ker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pran-Ker&show_icons=true&count_private=true&hide=" /></a>
 
 
   <summary>Languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pran-Ker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pran-Ker&langs_count=10&layout=compact#" /></a>
+  <img alt="Pran-Ker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pran-Ker&langs_count=10&layout=compact#" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
  -->
