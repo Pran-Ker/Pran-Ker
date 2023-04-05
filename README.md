@@ -12,7 +12,6 @@
 * When I'm not coding, you can usually find me playing soccer, travelling, chess, or reading books. 
 * I graduated from VIT Vellore with a degree in Computer Science and Business Systems.
 * I've worked with a variety of programming languages and platforms, including NodeJS, Python, GCP, and React Native.
-* Feel free to reach out if you have a cool project you'd like to collaborate on.
  
 If you're interested in developing startups, researching into Cognitive Science, AI, or Quantum Comptuting. HMU. Also appericate the follow.
 
