@@ -22,9 +22,9 @@ If you're interested in developing startups, researching into Cognitive Science,
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <summary>Stats</summary>
+ <!-- <summary>Stats</summary>
   <br/>
-  <img alt="Pran-Ker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pran-Ker&show_icons=true&count_private=true&hide=" /></a>
+  <img alt="Pran-Ker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pran-Ker&show_icons=true&count_private=true&hide=" /></a> --!>
 
 
   <summary>Languages</summary>
