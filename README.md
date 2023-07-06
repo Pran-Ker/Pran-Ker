@@ -9,8 +9,7 @@
 ## About me
 
 * Hey there, I'm Prannay Hebbar, I'm a software developer and hope to merge with AI someday.
-* When I'm not coding, you can usually find me playing soccer, travelling, chess, or reading books. 
-* I graduated from VIT Vellore with a degree in Computer Science and Business Systems.
+* When I'm not coding, you can usually find me playing soccer, travelling, chess, or reading books.
 * I've worked with a variety of programming languages and platforms, including NodeJS, Python, GCP, and React Native.
  
 If you're interested in developing startups, researching into Cognitive Science, AI, or Quantum Comptuting. HMU. Also appericate the follow.
