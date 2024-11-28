@@ -8,7 +8,7 @@
 
 ## About me
 
-* Hey there, I'm Prannay Hebbar, I'm a software developer and hope to merge with AI someday.
+* Hey there, I'm Prannay Hebbar, I'm a software developer.
 * When I'm not coding, you can usually find me playing soccer, travelling, chess, or reading books.
 * I've worked with a variety of programming languages and platforms, including NodeJS, Python, GCP, and React Native.
  
