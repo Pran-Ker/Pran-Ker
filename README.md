@@ -1,31 +1,73 @@
-<h3 align="center"><a href="https://pran-ker.github.io/">Prannay Hebbar</a><br>Pran-Ker </h3>
+      ██████╗  ██████╗   █████╗  ███╗   ██╗ ███╗   ██╗  █████╗  ██╗   ██╗
+      ██╔══██╗ ██╔══██╗ ██╔══██╗ ████╗  ██║ ████╗  ██║ ██╔══██╗ ╚██╗ ██╔╝
+      ██████╔╝ ██████╔╝ ███████║ ██╔██╗ ██║ ██╔██╗ ██║ ███████║  ╚████╔╝ 
+      ██╔═══╝  ██╔══██╗ ██╔══██║ ██║╚██╗██║ ██║╚██╗██║ ██╔══██║   ╚██╔╝  
+      ██║      ██║  ██║ ██║  ██║ ██║ ╚████║ ██║ ╚████║ ██║  ██║    ██║   
+      ╚═╝      ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝    ╚═╝   
 
+<!--
+    Terminal‑style README for Prannay Hebbar (Pran‑Ker)
+-->
+
+~~~bash
+┌─[prannay@github]─[~/Pran-Ker]
+└─$ cat README.md
+~~~
+
+##  whoami
+| key | value |
+| --- | ----- |
+| **Name** | [Prannay Hebbar](https://pran-ker.github.io/) |
+| **Handle** | **Pran‑Ker** |
+| **Roles** | AI Researcher . Fullstack |
+| **Stack** | Node.js · Python · GCP · React Native |
+| **Paper** | [arXiv 2504.11543](https://arxiv.org/abs/2504.11543) |
+
+> When I’m not building you’ll find me on the soccer pitch, up a mountain, over a chessboard, or reading books.
+
+---
+
+###  social --follow
 <p align="center">
-<!--   <a href="https://twitter.com/HebbarPrannay"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/HebbarPrannay?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a> -->
-  <a href="https://github.com/Pran-Ker"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Pran-Ker?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://www.linkedin.com/in/prannay/"><img alt="followers" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5/follow/prannay?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Pran-Ker">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Pran-Ker?color=236ad3&style=for-the-badge&logo=github&label=Follow">
+  </a>
+  <a href="https://www.linkedin.com/in/prannay/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
 </p>
 
-## About me
+---
 
-* Hey there, I'm Prannay Hebbar, I'm a software developer.
-* When I'm not coding, you can usually find me playing soccer, travelling, chess, or reading books.
-* I've worked with a variety of programming languages and platforms, including NodeJS, Python, GCP, and React Native.
- 
-If you're interested in developing startups, researching into Cognitive Science, AI, or Quantum Comptuting. HMU. Also appericate the follow.
+###  projects --demo
+[![Demo #1](https://img.shields.io/static/v1?label=YouTube&message=p7yRFMXxhgA&color=red&logo=youtube)](https://www.youtube.com/watch?v=p7yRFMXxhgA)
+[![Demo #2](https://img.shields.io/static/v1?label=YouTube&message=niDDpYHIRfM&color=red&logo=youtube)](https://www.youtube.com/watch?v=niDDpYHIRfM)
 
-<p align="left">
-  <a href="https://pran-ker.github.io/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-    
+---
+
+###  stats --langs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pran-Ker&langs_count=10&layout=compact">
 </p>
 
+---
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
- <!-- <summary>Stats</summary>
-  <br/>
-  <img alt="Pran-Ker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pran-Ker&show_icons=true&count_private=true&hide=" /></a> --!>
+###  about --help
+~~~text
+usage: ./about [--hire] [--collab] [--coffee]
 
+  --hire     Building 0‑to‑1 products in AI, Cognitive Science,
+             or Quantum Computing?  Let’s talk scale, infra, and systems.
 
-  <summary>Languages</summary>
-  <br/>
-  <img alt="Pran-Ker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pran-Ker&langs_count=10&layout=compact#" /></a>
+  --collab   Keen to co‑author research that fuses neuroscience &
+             machine learning.  HMU.
+
+  --coffee   Have an interesting problem space?  Grab a ☕ and ping me.
+~~~
+
+<p align="right">
+  <a href="https://pran-ker.github.io/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=terminal">
+  </a>
+</p>
