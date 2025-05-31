@@ -35,7 +35,11 @@
   <a href="https://www.linkedin.com/in/prannay/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
+  <a href="https://x.com/Pran_Ker">
+  <img
+    alt="X"
+    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white">
+</a>
 </p>
 
 ---
@@ -44,14 +48,6 @@
 [![Demo #1](https://img.shields.io/static/v1?label=YouTube&message=p7yRFMXxhgA&color=red&logo=youtube)](https://www.youtube.com/watch?v=p7yRFMXxhgA)
 [![Demo #2](https://img.shields.io/static/v1?label=YouTube&message=niDDpYHIRfM&color=red&logo=youtube)](https://www.youtube.com/watch?v=niDDpYHIRfM)
 
----
-
-###  stats --langs
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pran-Ker&langs_count=10&layout=compact">
-</p>
-
----
 
 ###  about --help
 ~~~text
