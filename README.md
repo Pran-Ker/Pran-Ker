@@ -45,11 +45,6 @@
 
 ###  about --help
 ~~~text
-usage: ./about [--hire] [--collab] [--coffee]
-
-  --hire     Building 0‑to‑1 products in AI, Cognitive Science,
-             or Quantum Computing?  Let’s talk scale, infra, and systems.
-
   --collab   Keen to co‑author research that fuses neuroscience &
              machine learning.  HMU.
 
