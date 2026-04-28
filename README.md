@@ -12,8 +12,8 @@
 | --- | ----- |
 | **Name** | [Prannay Hebbar](https://pran-ker.github.io/) |
 | **Handle** | **Pran‑Ker** |
-| **Roles** | AI Researcher . Fullstack |
-| **Stack** | Node.js · Python · GCP · React Native |
+| **Roles** | AI Researcher |
+| **Stack** | RL. Distilling Models . Evals . Python . NodeJs|
 | **Paper** | [arXiv 2504.11543](https://arxiv.org/abs/2504.11543) |
 | **Stanford**| [Old Stanford profile](https://web.archive.org/web/20240726215047/https://profiles.stanford.edu/prannay-hebbar) |
 
