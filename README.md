@@ -39,9 +39,7 @@
 ---
 
 ###  projects --demo
-[![Demo #1](https://img.shields.io/static/v1?label=YouTube&message=p7yRFMXxhgA&color=red&logo=youtube)](https://www.youtube.com/watch?v=p7yRFMXxhgA)
-[![Demo #2](https://img.shields.io/static/v1?label=YouTube&message=niDDpYHIRfM&color=red&logo=youtube)](https://www.youtube.com/watch?v=niDDpYHIRfM)
-
+Interesting training run: https://trimul-deploy.vercel.app/
 
 ###  about --help
 ~~~text
