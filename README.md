@@ -14,7 +14,7 @@
 | **Handle** | **Pran‑Ker** |
 | **Roles** | AI Researcher |
 | **Stack** | RL. Distilling Models . Evals . Python . NodeJs|
-| **Paper** | [REAL Bench](https://arxiv.org/abs/2504.11543); [SIA](https://arxiv.org/abs/2605.27276) |
+| **Paper** | [SWE-Marathon](https://arxiv.org/abs/2606.07682); [REAL Bench](https://arxiv.org/abs/2504.11543); [SIA](https://arxiv.org/abs/2605.27276) |
 | **Stanford**| [Old Stanford profile](https://web.archive.org/web/20240726215047/https://profiles.stanford.edu/prannay-hebbar) |
 
 > When I’m not building you’ll find me on the soccer pitch, up a mountain, over a chessboard, or reading books.
